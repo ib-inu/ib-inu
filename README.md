@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @ib-inu
-- 👀 I’m interested in politics
-- 🌱 I’m currently learning frontend Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: 
+To be Professional ;
+
 
 <!---
 ib-inu/ib-inu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
