@@ -1,7 +1,9 @@
-ser Profesionel ⭡
+Advanced in html&css
 
+intermediate Javascript and Typescript
 
-<!---
-ib-inu/ib-inu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+familiar with Sass , Tailwind, Bootstrap and Version Control 
+
+beginner in React js and jest 
+
+currently Practicing Frontend developement.
