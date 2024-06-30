@@ -1,8 +1,8 @@
 Advanced in html&css
 
-intermediate Javascript and Typescript
-
 familiar with Sass , Tailwind, Bootstrap and Version Control 
+
+Javascript and Typescript
 
 beginner in React js and jest&Test
 
