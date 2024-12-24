@@ -1,15 +1,14 @@
 # Hi there, I'm [Ibnu Muhthar](https://ibnumuhthar.netlify.app) !👋 
   
 
-I’m a passionate **React JS Developer** who loves creating web applications and constantly improving my skills in web development. Welcome to my GitHub profile!
+I’m a passionate **React JS Developer** who loves creating web applications and constantly improving my skills in web development. 
  
 
 ---
 
 ### 🌐 About Me
 - 💻 I specialize in **React** and have experience working with **TypeScript, HTML, and CSS**.
-- 🌱 Currently learning **Python** and exploring **backend development** to expand my skill set.
-- 🎯 My goal is to become a **full-stack developer** with expertise in frontend frameworks and backend technologies.
+- 🌱 Currently an **Intern** and expand my skill set by continuous learning.
 - 🚀 Always excited to work on new projects and contribute to open-source!
 
 ---
@@ -45,8 +44,8 @@ Here are some of the projects I've been working on:
   Due to API limitations, custom logic is implemented to handle additional features, creating a more robust shopping experience and better control over product data. This app integrates **Axios** for API requests, provides real-time product information, and uses **React Query** for optimized data fetching. With a responsive and visually appealing interface designed using **Material-UI (MUI)**, FlexxCart offers a smooth shopping experience across all devices. i used Fakestore API for this Project.  
 **here is the username and password to exlpore this website ( username: johnd , password: m38rmF$ )**
 
-- **[Recito](https://recito.netlify.app/)**  
-**Recito** is a simple yet powerful recipe finder and uploader application, built using **Vanilla JavaScript** and **Sass**. Users can search for recipes, upload their own, and bookmark their favorite recipes for easy access later. The project is structured using the **MVC architecture** for better organization and scalability, while following the **BEM methodology** for clean and maintainable CSS. This project showcases advanced **DOM manipulation** techniques, allowing seamless interaction with the UI without the use of any JavaScript frameworks.  
+- **[Receta](https://receta-recipe.netlify.app/)**  
+**Receta** is a simple yet powerful recipe finder and uploader application, built using **Vanilla JavaScript** and **Sass**. Users can search for recipes, upload their own, and bookmark their favorite recipes for easy access later. The project is structured using the **MVC architecture** for better organization and scalability, while following the **BEM methodology** for clean and maintainable CSS. This project showcases advanced **DOM manipulation** techniques, allowing seamless interaction with the UI without the use of any JavaScript frameworks.  
 The **UI** is designed to be intuitive and visually appealing, providing a smooth and enjoyable user experience.
 
 
