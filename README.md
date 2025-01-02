@@ -40,6 +40,7 @@ I’m a passionate **React JS Developer** who loves creating web applications an
 
 ### 📫 Let's Connect!
 Feel free to connect with me  
+
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibnu-muhthar-57604b314)
 
 
