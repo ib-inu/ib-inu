@@ -1,4 +1,4 @@
-# Hi there, I'm [Ibnu Muhthar](https://ibnumuhthar.netlify.app) !👋 
+# Hi there, I'm [Ibnu Muhthar](https://ibnumuhthar.netlify.app) ! 
   
 
 I’m a passionate **React JS Developer** who loves creating web applications and constantly improving my skills in web development. 
@@ -6,10 +6,10 @@ I’m a passionate **React JS Developer** who loves creating web applications an
 
 ---
 
-### 🌐 About Me
-- 💻 I specialize in **React** and have experience working with **TypeScript, NextJS, and SCSS**.
-- 🌱 Currently an **Intern** and expand my skill set by continuous learning.
-- 🚀 Always excited to work on new projects and contribute to open-source!
+###  About Me
+-  I specialize in **React** and have experience working with **TypeScript, NextJS, and SCSS**.
+-  Currently an **Intern** and expand my skill set by continuous learning.
+-  Always excited to work on new projects and contribute to open-source!
 
 ---
 
