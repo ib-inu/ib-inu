@@ -30,27 +30,6 @@ I’m a passionate **React JS Developer** who loves creating web applications an
 
 ---
 
-### 📂 Projects
-Here are some of the projects I've been working on:
-
-- **[DCR-Books](https://dcrbooks.netlify.app/)**  
-  **DCR Books** is a user-friendly book tracking app designed to help avid readers manage and track their reading journey. With **React Query** and **Axios** powering seamless API interactions, users can search for books through the **Google Books API**, add books they've read, and mark favorites for easy access.
-
-  The interface is built with **Material-UI (MUI)**, providing a clean and responsive design, while **React-Hot-Toaster** offers intuitive feedback on actions like adding or removing books. This app also leverages the **Context API** for efficient state management, making it a streamlined tool for readers looking to keep their reading list organized and accessible.
-
-- **[FlexxCart](https://flexxcart.netlify.app/)**  
-  **FlexxCart** is a modern, intuitive e-commerce application designed to enhance the online shopping experience. Built with **React** and **Redux** for efficient state management, FlexxCart allows users to browse products by category, add items to their cart, and manage their orders seamlessly.
-
-  Due to API limitations, custom logic is implemented to handle additional features, creating a more robust shopping experience and better control over product data. This app integrates **Axios** for API requests, provides real-time product information, and uses **React Query** for optimized data fetching. With a responsive and visually appealing interface designed using **Material-UI (MUI)**, FlexxCart offers a smooth shopping experience across all devices. i used Fakestore API for this Project.  
-**here is the username and password to exlpore this website ( username: johnd , password: m38rmF$ )**
-
-- **[Receta](https://receta-recipe.netlify.app/)**  
-**Receta** is a simple yet powerful recipe finder and uploader application, built using **Vanilla JavaScript** and **Sass**. Users can search for recipes, upload their own, and bookmark their favorite recipes for easy access later. The project is structured using the **MVC architecture** for better organization and scalability, while following the **BEM methodology** for clean and maintainable CSS. This project showcases advanced **DOM manipulation** techniques, allowing seamless interaction with the UI without the use of any JavaScript frameworks.  
-The **UI** is designed to be intuitive and visually appealing, providing a smooth and enjoyable user experience.
-
-
----
-
 
 ### 📈 GitHub Stats
 ![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=ib-inu&theme=dark)
