@@ -8,8 +8,8 @@ I’m a passionate **React JS Developer** who loves creating web applications an
 
 ###  About Me
 -  I specialize in **React** and have experience working with **TypeScript, NextJS, and SCSS**.
--  Currently an **Intern** and expand my skill set by continuous learning.
--  Always excited to work on new projects and contribute to open-source!
+-  Currently an **Intern** and expand my skills by continuous learning.
+-  Always excited to work on new projects and contribute to open-sources!
 
 ---
 
