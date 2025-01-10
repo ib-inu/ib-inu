@@ -32,7 +32,7 @@ I’m a passionate **React JS Developer** who loves creating web applications an
 
 
 ### 📈 GitHub Stats
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=ib-inu&theme=dark)
+![GitHub streak](https://api.rigle.co/github-streak/stats/ib-inu)
 
 
 
