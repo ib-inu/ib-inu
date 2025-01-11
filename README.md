@@ -33,8 +33,7 @@ I’m a passionate **React JS Developer** who loves creating web applications an
 
 ### 📈 GitHub Stats
 
-![GitHub streak](https://api.rigle.co/github-streak/stats/ib-inu)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ib-inu&theme=dark)](https://git.io/streak-stats)
 
 
 ---
