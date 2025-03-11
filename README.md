@@ -1,17 +1,17 @@
 ![Anime Banner](https://wallpapercave.com/wp/wp4923981.jpg)
 
-# 🌸 Holaa!
+#  Holaa!
 
 > "Code. Debug. Repeat."
 
-🌸 **A React Developer crafting immersive web experiences with a touch of anime aesthetics.**
+**A React Developer .**
 
 ---
 
-## ✨ About Me  
-🎯 Specializing in **React**, with experience in **TypeScript, NextJS, and SCSS**.  
-💻 Currently an **Intern**, always leveling up my skills.  
-⚡ Passionate about **open-source contributions and creative coding**.  
+##  About Me  
+ Specializing in **React**, with experience in **TypeScript, NextJS, and SCSS**.  
+ Currently an **Intern**, always leveling up my skills.  
+ Passionate about **open-source contributions and creative coding**.  
 
 ---
 
